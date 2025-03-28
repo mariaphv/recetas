@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(229, 171, 255);
+}
+/* Cambiar color del título */
+h1 {
+    color: #666666; /* Tomate */
+    text-align: center;
+}
+
